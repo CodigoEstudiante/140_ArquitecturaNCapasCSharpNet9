@@ -1,0 +1,12 @@
+E:\WorkSpaceAD\YOUTUBE\140 ARQUITEC. N CAPAS NET 9\WebApiNLayers\3.DataLayer\bin\Debug\net9.0\3.DataLayer.deps.json
+E:\WorkSpaceAD\YOUTUBE\140 ARQUITEC. N CAPAS NET 9\WebApiNLayers\3.DataLayer\bin\Debug\net9.0\3.DataLayer.dll
+E:\WorkSpaceAD\YOUTUBE\140 ARQUITEC. N CAPAS NET 9\WebApiNLayers\3.DataLayer\bin\Debug\net9.0\3.DataLayer.pdb
+E:\WorkSpaceAD\YOUTUBE\140 ARQUITEC. N CAPAS NET 9\WebApiNLayers\3.DataLayer\obj\Debug\net9.0\3.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE\140 ARQUITEC. N CAPAS NET 9\WebApiNLayers\3.DataLayer\obj\Debug\net9.0\3.DataLayer.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE\140 ARQUITEC. N CAPAS NET 9\WebApiNLayers\3.DataLayer\obj\Debug\net9.0\3.DataLayer.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\140 ARQUITEC. N CAPAS NET 9\WebApiNLayers\3.DataLayer\obj\Debug\net9.0\3.DataLayer.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\140 ARQUITEC. N CAPAS NET 9\WebApiNLayers\3.DataLayer\obj\Debug\net9.0\3.DataLayer.dll
+E:\WorkSpaceAD\YOUTUBE\140 ARQUITEC. N CAPAS NET 9\WebApiNLayers\3.DataLayer\obj\Debug\net9.0\refint\3.DataLayer.dll
+E:\WorkSpaceAD\YOUTUBE\140 ARQUITEC. N CAPAS NET 9\WebApiNLayers\3.DataLayer\obj\Debug\net9.0\3.DataLayer.pdb
+E:\WorkSpaceAD\YOUTUBE\140 ARQUITEC. N CAPAS NET 9\WebApiNLayers\3.DataLayer\obj\Debug\net9.0\ref\3.DataLayer.dll
+E:\WorkSpaceAD\YOUTUBE\140 ARQUITEC. N CAPAS NET 9\WebApiNLayers\3.DataLayer\obj\Debug\net9.0\3.DataLayer.csproj.AssemblyReference.cache

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WorkSpaceAD\\YOUTUBE\\140 ARQUITEC. N CAPAS NET 9\\WebApiNLayers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4C54C1-0460-4507-A996-D1A324E5AB6F}|1.PresentationLayer\\1.PresentationLayer.csproj|e:\\workspacead\\youtube\\140 arquitec. n capas net 9\\webapinlayers\\1.presentationlayer\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4C54C1-0460-4507-A996-D1A324E5AB6F}|1.PresentationLayer\\1.PresentationLayer.csproj|solutionrelative:1.presentationlayer\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E697C78-A169-4C8C-B970-1AF1568CD2CF}|2.BusinessLayer\\2.BusinessLayer.csproj|e:\\workspacead\\youtube\\140 arquitec. n capas net 9\\webapinlayers\\2.businesslayer\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E697C78-A169-4C8C-B970-1AF1568CD2CF}|2.BusinessLayer\\2.BusinessLayer.csproj|solutionrelative:2.businesslayer\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F30737F-2AE8-4352-9536-B50120494CB4}|3.DataLayer\\3.DataLayer.csproj|e:\\workspacead\\youtube\\140 arquitec. n capas net 9\\webapinlayers\\3.datalayer\\productdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F30737F-2AE8-4352-9536-B50120494CB4}|3.DataLayer\\3.DataLayer.csproj|solutionrelative:3.datalayer\\productdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4C54C1-0460-4507-A996-D1A324E5AB6F}|1.PresentationLayer\\1.PresentationLayer.csproj|e:\\workspacead\\youtube\\140 arquitec. n capas net 9\\webapinlayers\\1.presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4C54C1-0460-4507-A996-D1A324E5AB6F}|1.PresentationLayer\\1.PresentationLayer.csproj|solutionrelative:1.presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4C54C1-0460-4507-A996-D1A324E5AB6F}|1.PresentationLayer\\1.PresentationLayer.csproj|e:\\workspacead\\youtube\\140 arquitec. n capas net 9\\webapinlayers\\1.presentationlayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA4C54C1-0460-4507-A996-D1A324E5AB6F}|1.PresentationLayer\\1.PresentationLayer.csproj|solutionrelative:1.presentationlayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4C54C1-0460-4507-A996-D1A324E5AB6F}|1.PresentationLayer\\1.PresentationLayer.csproj|e:\\workspacead\\youtube\\140 arquitec. n capas net 9\\webapinlayers\\1.presentationlayer\\1.presentationlayer.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CA4C54C1-0460-4507-A996-D1A324E5AB6F}|1.PresentationLayer\\1.PresentationLayer.csproj|solutionrelative:1.presentationlayer\\1.presentationlayer.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "1.PresentationLayer.http",
+              "DocumentMoniker": "E:\\WorkSpaceAD\\YOUTUBE\\140 ARQUITEC. N CAPAS NET 9\\WebApiNLayers\\1.PresentationLayer\\1.PresentationLayer.http",
+              "RelativeDocumentMoniker": "1.PresentationLayer\\1.PresentationLayer.http",
+              "ToolTip": "E:\\WorkSpaceAD\\YOUTUBE\\140 ARQUITEC. N CAPAS NET 9\\WebApiNLayers\\1.PresentationLayer\\1.PresentationLayer.http",
+              "RelativeToolTip": "1.PresentationLayer\\1.PresentationLayer.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-05T22:30:44.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\WorkSpaceAD\\YOUTUBE\\140 ARQUITEC. N CAPAS NET 9\\WebApiNLayers\\1.PresentationLayer\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "1.PresentationLayer\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\WorkSpaceAD\\YOUTUBE\\140 ARQUITEC. N CAPAS NET 9\\WebApiNLayers\\1.PresentationLayer\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "1.PresentationLayer\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:18:37.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductBL.cs",
+              "DocumentMoniker": "E:\\WorkSpaceAD\\YOUTUBE\\140 ARQUITEC. N CAPAS NET 9\\WebApiNLayers\\2.BusinessLayer\\ProductBL.cs",
+              "RelativeDocumentMoniker": "2.BusinessLayer\\ProductBL.cs",
+              "ToolTip": "E:\\WorkSpaceAD\\YOUTUBE\\140 ARQUITEC. N CAPAS NET 9\\WebApiNLayers\\2.BusinessLayer\\ProductBL.cs",
+              "RelativeToolTip": "2.BusinessLayer\\ProductBL.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:12:36.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDL.cs",
+              "DocumentMoniker": "E:\\WorkSpaceAD\\YOUTUBE\\140 ARQUITEC. N CAPAS NET 9\\WebApiNLayers\\3.DataLayer\\ProductDL.cs",
+              "RelativeDocumentMoniker": "3.DataLayer\\ProductDL.cs",
+              "ToolTip": "E:\\WorkSpaceAD\\YOUTUBE\\140 ARQUITEC. N CAPAS NET 9\\WebApiNLayers\\3.DataLayer\\ProductDL.cs",
+              "RelativeToolTip": "3.DataLayer\\ProductDL.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAQwFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:10:37.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WorkSpaceAD\\YOUTUBE\\140 ARQUITEC. N CAPAS NET 9\\WebApiNLayers\\1.PresentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "1.PresentationLayer\\Program.cs",
+              "ToolTip": "E:\\WorkSpaceAD\\YOUTUBE\\140 ARQUITEC. N CAPAS NET 9\\WebApiNLayers\\1.PresentationLayer\\Program.cs",
+              "RelativeToolTip": "1.PresentationLayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:09:42.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\WorkSpaceAD\\YOUTUBE\\140 ARQUITEC. N CAPAS NET 9\\WebApiNLayers\\1.PresentationLayer\\appsettings.json",
+              "RelativeDocumentMoniker": "1.PresentationLayer\\appsettings.json",
+              "ToolTip": "E:\\WorkSpaceAD\\YOUTUBE\\140 ARQUITEC. N CAPAS NET 9\\WebApiNLayers\\1.PresentationLayer\\appsettings.json",
+              "RelativeToolTip": "1.PresentationLayer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T22:08:16.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
